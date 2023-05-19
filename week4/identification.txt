@@ -1,0 +1,4 @@
+The website is a portfolio website of a theme park operator company. The company owns a wide range theme parks 
+around the world. Each park has its own management, timing, ticketing mechanism. The operator wants to showcase 
+all the parks to the interested people and navigate them to the interested park website. The website will reflect 
+company's concepts, visions and commitment to entertain people.
